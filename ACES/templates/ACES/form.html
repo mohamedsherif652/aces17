@@ -9,8 +9,8 @@
 </center>
 <form>
 	{% for slot in all_slots %}
-        {% if slot.numberOfApplicants > 1 %}
-            <li><a href="/music/{{ slot.id }}/">{{ slot.slot }}</a> </li>
+        {% if slot.numberOfApplicants >= 1 %}
+            <li><a href="/aces/{{ slot.id }}/">{{ slot.slot }}</a> </li>
         {% endif %}
     {% endfor %}
 </form>

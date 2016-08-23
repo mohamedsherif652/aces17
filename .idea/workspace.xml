@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99671a84-1ee2-4854-b00a-6e81909b7886" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ACES/admin.py" afterPath="$PROJECT_DIR$/ACES/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ACES/models.py" afterPath="$PROJECT_DIR$/ACES/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ACES/urls.py" afterPath="$PROJECT_DIR$/ACES/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ACES/views.py" afterPath="$PROJECT_DIR$/ACES/views.py" />
-    </list>
+    <list default="true" id="99671a84-1ee2-4854-b00a-6e81909b7886" name="Default" comment="" />
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -566,7 +559,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="212" y="147" width="1496" height="1102" extended-state="0" />
+    <frame x="212" y="147" width="1496" height="1102" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19876203" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
