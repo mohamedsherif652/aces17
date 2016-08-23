@@ -4,16 +4,9 @@ from django.db import models
 
 class applicant(models.Model):
     mobileNumber = models.IntegerField()
-    intrvwSlt = models.DateField()
+    interviewSlot = models.CharField(max_length=30)
 
-class interviewSlot(models.Model):
-	numberOfApplicants = 10
-	interviewDate = models.DateField
-
-
-	def chckNmbrOfAplcnts():
-		if numberOfApplicants > 0:
-			numberOfApplicants-1
-			return self
-
+class interviewSlots(models.Model):
+    slot = models.CharField(max_length=30)
+    numberOfApplicants = models.IntegerField()
 
